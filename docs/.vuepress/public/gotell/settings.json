@@ -1,5 +1,7 @@
 {
-    "banned_ips": [],
+    "banned_ips": [
+        "missguided.com"
+    ],
     "banned_keywords": [],
     "banned_emails": [],
     "timelimit": 604800
